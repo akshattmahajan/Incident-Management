@@ -1,0 +1,1001 @@
+Sensor_Type,Incident_Type,Weather_Condition,Time_of_Day,Traffic_Density,Alert_Level,Detection_Method,Response_Time,Location_Type,Data_Source
+Camera,Road Block,Foggy,Night,Medium,Low,Classification,5-15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Foggy,Afternoon,Low,Medium,Classification,5-15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Foggy,Night,Medium,High,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Foggy,Morning,Low,Medium,Classification,<5 mins,Urban,Cloud Server
+LIDAR,Accident,Rainy,Afternoon,Medium,Low,Clustering,5-15 mins,Urban,Edge Device
+Radar,Road Block,Rainy,Night,Low,High,Classification,>15 mins,Rural,On-premise Server
+Radar,Accident,Clear,Night,High,Medium,Classification,<5 mins,Suburban,Edge Device
+Radar,Accident,Foggy,Morning,Low,Low,Anomaly Detection,<5 mins,Rural,On-premise Server
+Camera,Road Block,Clear,Night,Medium,Low,Classification,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Clear,Afternoon,Low,Low,Classification,5-15 mins,Rural,Edge Device
+Radar,Accident,Foggy,Night,Low,Medium,Anomaly Detection,>15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Morning,Low,High,Clustering,<5 mins,Urban,Cloud Server
+Radar,Traffic Jam,Rainy,Morning,High,Low,Clustering,<5 mins,Suburban,Cloud Server
+LIDAR,Road Block,Rainy,Morning,High,Low,Clustering,<5 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Morning,Low,Medium,Classification,5-15 mins,Rural,Edge Device
+LIDAR,Road Block,Foggy,Morning,Medium,Medium,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Camera,Traffic Jam,Foggy,Night,Medium,High,Classification,>15 mins,Rural,Edge Device
+Camera,Road Block,Clear,Morning,Medium,Medium,Clustering,5-15 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Rainy,Night,Low,High,Clustering,>15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Morning,Low,High,Classification,>15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Rainy,Morning,Medium,Low,Clustering,>15 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Clear,Morning,Medium,High,Classification,5-15 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Rainy,Morning,Low,Medium,Clustering,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Night,High,Low,Anomaly Detection,>15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Rainy,Morning,High,Medium,Classification,>15 mins,Rural,Cloud Server
+Camera,Road Block,Clear,Morning,Medium,Medium,Clustering,>15 mins,Suburban,Edge Device
+Camera,Road Block,Foggy,Morning,Medium,High,Classification,5-15 mins,Rural,Edge Device
+LIDAR,Accident,Clear,Morning,High,Medium,Clustering,5-15 mins,Rural,Edge Device
+LIDAR,Accident,Clear,Afternoon,Medium,Medium,Classification,>15 mins,Rural,On-premise Server
+Radar,Accident,Clear,Morning,Medium,High,Classification,5-15 mins,Urban,On-premise Server
+LIDAR,Accident,Clear,Morning,Low,High,Clustering,>15 mins,Urban,Edge Device
+Radar,Accident,Clear,Morning,Low,High,Anomaly Detection,5-15 mins,Rural,Cloud Server
+LIDAR,Road Block,Rainy,Night,Medium,High,Anomaly Detection,>15 mins,Suburban,On-premise Server
+Radar,Road Block,Rainy,Morning,High,Medium,Clustering,5-15 mins,Suburban,Edge Device
+LIDAR,Accident,Clear,Morning,Low,High,Classification,>15 mins,Rural,Edge Device
+LIDAR,Road Block,Foggy,Night,High,High,Anomaly Detection,5-15 mins,Rural,Edge Device
+LIDAR,Road Block,Clear,Night,Medium,High,Classification,>15 mins,Suburban,Edge Device
+LIDAR,Accident,Clear,Morning,Low,High,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Rainy,Night,Low,High,Clustering,<5 mins,Urban,Edge Device
+Radar,Accident,Clear,Night,High,High,Clustering,<5 mins,Rural,On-premise Server
+Radar,Road Block,Clear,Afternoon,High,High,Classification,>15 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Rainy,Night,High,High,Clustering,>15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Rainy,Night,Low,High,Classification,5-15 mins,Urban,Cloud Server
+LIDAR,Road Block,Foggy,Night,High,High,Clustering,5-15 mins,Suburban,On-premise Server
+LIDAR,Accident,Clear,Morning,Medium,High,Anomaly Detection,>15 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Foggy,Night,Medium,High,Clustering,<5 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Low,High,Clustering,<5 mins,Suburban,Cloud Server
+Radar,Road Block,Rainy,Night,High,Low,Clustering,>15 mins,Rural,Edge Device
+LIDAR,Road Block,Foggy,Morning,Low,Medium,Clustering,<5 mins,Suburban,Edge Device
+Radar,Road Block,Rainy,Morning,Medium,Medium,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Clear,Morning,High,Medium,Classification,>15 mins,Rural,Edge Device
+Radar,Road Block,Clear,Night,Low,Low,Clustering,5-15 mins,Suburban,On-premise Server
+Camera,Road Block,Clear,Night,Low,Low,Clustering,<5 mins,Urban,Cloud Server
+LIDAR,Accident,Rainy,Afternoon,Low,Medium,Classification,<5 mins,Rural,Cloud Server
+LIDAR,Accident,Clear,Afternoon,Medium,High,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+Camera,Road Block,Foggy,Night,Low,Medium,Clustering,<5 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Clear,Morning,Medium,Low,Classification,>15 mins,Rural,Cloud Server
+LIDAR,Road Block,Foggy,Night,High,High,Anomaly Detection,<5 mins,Rural,Edge Device
+LIDAR,Road Block,Rainy,Night,Low,High,Classification,<5 mins,Rural,Edge Device
+Radar,Accident,Foggy,Night,Low,Medium,Clustering,5-15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Foggy,Afternoon,Medium,Medium,Classification,5-15 mins,Urban,On-premise Server
+LIDAR,Road Block,Rainy,Night,High,Medium,Clustering,5-15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Clear,Night,Medium,Low,Classification,5-15 mins,Rural,On-premise Server
+Radar,Accident,Rainy,Afternoon,Medium,Medium,Anomaly Detection,>15 mins,Urban,On-premise Server
+LIDAR,Road Block,Foggy,Night,Low,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Afternoon,Low,Medium,Clustering,<5 mins,Rural,Edge Device
+LIDAR,Accident,Clear,Morning,Medium,Medium,Clustering,>15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Clear,Night,Low,Low,Clustering,5-15 mins,Urban,Edge Device
+Radar,Traffic Jam,Rainy,Morning,Low,Medium,Clustering,>15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Night,High,High,Clustering,>15 mins,Rural,Edge Device
+Radar,Accident,Clear,Afternoon,Medium,Low,Clustering,>15 mins,Rural,Cloud Server
+Camera,Accident,Clear,Afternoon,High,High,Clustering,>15 mins,Urban,Cloud Server
+Camera,Road Block,Foggy,Morning,Low,Medium,Classification,<5 mins,Suburban,On-premise Server
+LIDAR,Accident,Clear,Morning,Medium,High,Clustering,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Foggy,Morning,Low,Low,Anomaly Detection,<5 mins,Suburban,Cloud Server
+LIDAR,Road Block,Clear,Morning,High,Low,Classification,>15 mins,Suburban,Edge Device
+Camera,Accident,Rainy,Afternoon,High,Medium,Classification,5-15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Clear,Night,High,Medium,Classification,5-15 mins,Rural,Edge Device
+Radar,Road Block,Clear,Night,Low,Medium,Classification,5-15 mins,Suburban,On-premise Server
+LIDAR,Accident,Clear,Morning,High,High,Anomaly Detection,5-15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Foggy,Afternoon,Medium,Medium,Classification,<5 mins,Rural,Edge Device
+Camera,Road Block,Foggy,Night,High,High,Classification,<5 mins,Suburban,Edge Device
+LIDAR,Accident,Rainy,Morning,Low,High,Classification,<5 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Rainy,Morning,High,Medium,Anomaly Detection,>15 mins,Urban,On-premise Server
+LIDAR,Road Block,Foggy,Afternoon,Low,Medium,Clustering,<5 mins,Rural,Edge Device
+Radar,Traffic Jam,Clear,Night,Low,High,Classification,<5 mins,Rural,Cloud Server
+Radar,Accident,Clear,Morning,Medium,Low,Classification,5-15 mins,Urban,On-premise Server
+Camera,Road Block,Clear,Morning,Low,Medium,Anomaly Detection,5-15 mins,Urban,Edge Device
+Radar,Traffic Jam,Foggy,Night,Medium,Medium,Clustering,>15 mins,Rural,On-premise Server
+LIDAR,Road Block,Foggy,Morning,Medium,Low,Classification,5-15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Foggy,Night,Low,Low,Anomaly Detection,>15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Clear,Afternoon,Medium,Low,Anomaly Detection,>15 mins,Rural,Cloud Server
+Camera,Accident,Rainy,Night,Medium,Medium,Anomaly Detection,>15 mins,Rural,On-premise Server
+Camera,Accident,Rainy,Night,Low,Medium,Clustering,>15 mins,Suburban,On-premise Server
+LIDAR,Road Block,Rainy,Afternoon,High,High,Clustering,5-15 mins,Urban,On-premise Server
+Camera,Road Block,Rainy,Morning,Medium,High,Anomaly Detection,<5 mins,Urban,Cloud Server
+Radar,Accident,Rainy,Morning,Low,High,Classification,5-15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Clear,Afternoon,Medium,Low,Clustering,>15 mins,Rural,Cloud Server
+LIDAR,Accident,Foggy,Afternoon,Low,Medium,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+Camera,Road Block,Foggy,Morning,High,High,Clustering,5-15 mins,Urban,Edge Device
+Radar,Traffic Jam,Foggy,Night,Low,High,Clustering,5-15 mins,Urban,On-premise Server
+LIDAR,Accident,Foggy,Afternoon,Low,Medium,Clustering,>15 mins,Urban,Cloud Server
+LIDAR,Road Block,Foggy,Morning,Medium,High,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Rainy,Morning,High,Low,Anomaly Detection,<5 mins,Rural,On-premise Server
+LIDAR,Road Block,Clear,Afternoon,Medium,Medium,Clustering,5-15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Clear,Morning,Low,Low,Classification,<5 mins,Urban,Edge Device
+Camera,Traffic Jam,Foggy,Morning,Medium,Medium,Classification,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Morning,Low,High,Clustering,<5 mins,Urban,Edge Device
+Radar,Traffic Jam,Rainy,Morning,High,Low,Clustering,>15 mins,Suburban,Edge Device
+Camera,Accident,Rainy,Afternoon,High,Low,Classification,5-15 mins,Rural,On-premise Server
+Camera,Accident,Rainy,Night,Low,Medium,Clustering,5-15 mins,Rural,Edge Device
+Camera,Traffic Jam,Clear,Afternoon,Low,Medium,Anomaly Detection,<5 mins,Urban,Edge Device
+Camera,Accident,Clear,Night,High,Medium,Classification,5-15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Rainy,Afternoon,Medium,High,Classification,5-15 mins,Suburban,Edge Device
+Camera,Road Block,Rainy,Morning,High,Low,Anomaly Detection,<5 mins,Urban,On-premise Server
+LIDAR,Traffic Jam,Clear,Night,High,Low,Classification,>15 mins,Suburban,On-premise Server
+Camera,Accident,Clear,Morning,Low,Low,Clustering,5-15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Clear,Morning,Low,High,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Clear,Afternoon,Low,Medium,Classification,<5 mins,Rural,On-premise Server
+Camera,Traffic Jam,Rainy,Morning,High,High,Clustering,>15 mins,Suburban,On-premise Server
+Camera,Road Block,Foggy,Afternoon,Low,Medium,Classification,<5 mins,Urban,Cloud Server
+Radar,Accident,Foggy,Afternoon,Medium,High,Classification,<5 mins,Urban,On-premise Server
+LIDAR,Accident,Rainy,Afternoon,Low,Medium,Clustering,5-15 mins,Suburban,Edge Device
+Camera,Road Block,Rainy,Night,Low,High,Anomaly Detection,>15 mins,Suburban,On-premise Server
+Radar,Road Block,Clear,Night,Medium,Medium,Classification,<5 mins,Rural,On-premise Server
+Camera,Road Block,Rainy,Morning,Medium,Low,Clustering,<5 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Morning,Medium,Low,Classification,5-15 mins,Urban,Edge Device
+Radar,Road Block,Rainy,Morning,Low,High,Classification,>15 mins,Urban,Edge Device
+Camera,Accident,Clear,Night,Medium,Medium,Classification,<5 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Afternoon,Low,High,Clustering,<5 mins,Suburban,On-premise Server
+Camera,Road Block,Rainy,Morning,Medium,Low,Anomaly Detection,<5 mins,Urban,On-premise Server
+Camera,Road Block,Clear,Afternoon,Medium,Low,Classification,<5 mins,Suburban,Edge Device
+Radar,Traffic Jam,Foggy,Afternoon,Medium,Medium,Classification,>15 mins,Rural,Cloud Server
+Camera,Road Block,Foggy,Night,Medium,Low,Classification,5-15 mins,Rural,On-premise Server
+Radar,Road Block,Foggy,Night,High,Low,Clustering,5-15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Rainy,Afternoon,High,High,Clustering,>15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Rainy,Night,Low,Low,Clustering,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Rainy,Morning,Medium,Low,Anomaly Detection,>15 mins,Rural,Cloud Server
+Camera,Road Block,Rainy,Morning,High,High,Anomaly Detection,<5 mins,Urban,Edge Device
+LIDAR,Road Block,Foggy,Afternoon,Medium,High,Classification,>15 mins,Urban,Edge Device
+LIDAR,Accident,Rainy,Night,Medium,High,Classification,<5 mins,Suburban,On-premise Server
+Camera,Road Block,Foggy,Morning,Low,Medium,Clustering,<5 mins,Rural,Cloud Server
+Camera,Road Block,Foggy,Afternoon,High,Low,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Clear,Afternoon,Low,Medium,Anomaly Detection,>15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Rainy,Afternoon,Medium,Medium,Anomaly Detection,>15 mins,Urban,On-premise Server
+Radar,Accident,Foggy,Morning,High,Low,Anomaly Detection,>15 mins,Suburban,Edge Device
+Radar,Road Block,Rainy,Morning,Medium,Medium,Classification,<5 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Rainy,Night,Low,Medium,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Accident,Foggy,Night,Low,Medium,Classification,>15 mins,Suburban,Edge Device
+Radar,Accident,Clear,Night,Low,High,Anomaly Detection,5-15 mins,Urban,Edge Device
+Camera,Traffic Jam,Clear,Night,Low,High,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Camera,Road Block,Rainy,Night,Medium,Medium,Anomaly Detection,>15 mins,Suburban,Edge Device
+Radar,Road Block,Rainy,Morning,Low,Medium,Anomaly Detection,>15 mins,Urban,On-premise Server
+Radar,Accident,Rainy,Night,Medium,High,Clustering,5-15 mins,Urban,On-premise Server
+Camera,Traffic Jam,Rainy,Afternoon,Medium,High,Anomaly Detection,>15 mins,Suburban,Cloud Server
+LIDAR,Accident,Rainy,Night,Medium,High,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Camera,Accident,Rainy,Night,Low,Medium,Classification,5-15 mins,Suburban,Cloud Server
+LIDAR,Road Block,Foggy,Morning,Low,Medium,Clustering,5-15 mins,Rural,Edge Device
+Radar,Accident,Clear,Morning,Low,Medium,Classification,5-15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Clear,Morning,Medium,High,Clustering,5-15 mins,Rural,Edge Device
+Camera,Accident,Foggy,Afternoon,Medium,Medium,Anomaly Detection,>15 mins,Suburban,On-premise Server
+LIDAR,Road Block,Foggy,Night,High,Medium,Classification,>15 mins,Urban,Cloud Server
+Radar,Road Block,Foggy,Morning,Low,High,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Night,Low,High,Classification,5-15 mins,Urban,Cloud Server
+Radar,Road Block,Clear,Night,Medium,Low,Classification,5-15 mins,Urban,On-premise Server
+Camera,Road Block,Foggy,Morning,High,Low,Clustering,5-15 mins,Rural,Edge Device
+LIDAR,Road Block,Clear,Morning,High,Medium,Clustering,5-15 mins,Urban,Edge Device
+LIDAR,Road Block,Rainy,Afternoon,Medium,Medium,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Traffic Jam,Rainy,Morning,High,Medium,Clustering,<5 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Rainy,Night,Medium,High,Classification,<5 mins,Suburban,Edge Device
+Radar,Road Block,Rainy,Afternoon,High,Low,Anomaly Detection,>15 mins,Suburban,Edge Device
+LIDAR,Road Block,Rainy,Afternoon,Low,Low,Classification,<5 mins,Suburban,Edge Device
+Radar,Accident,Rainy,Night,High,Low,Classification,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Night,Medium,Medium,Clustering,5-15 mins,Rural,Edge Device
+Radar,Accident,Clear,Morning,High,High,Anomaly Detection,<5 mins,Rural,Cloud Server
+Radar,Accident,Rainy,Afternoon,Medium,Medium,Classification,5-15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Rainy,Morning,Low,High,Clustering,5-15 mins,Rural,Edge Device
+Camera,Road Block,Foggy,Morning,High,High,Clustering,<5 mins,Rural,Cloud Server
+Radar,Road Block,Clear,Morning,Low,Low,Classification,>15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Rainy,Afternoon,Low,Low,Classification,>15 mins,Rural,Edge Device
+Camera,Traffic Jam,Rainy,Afternoon,Medium,High,Anomaly Detection,5-15 mins,Urban,On-premise Server
+LIDAR,Accident,Clear,Night,Medium,High,Classification,5-15 mins,Suburban,On-premise Server
+Camera,Road Block,Clear,Morning,High,Medium,Clustering,5-15 mins,Urban,Cloud Server
+Camera,Road Block,Clear,Afternoon,High,High,Classification,5-15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Clear,Morning,Low,High,Classification,5-15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Clear,Afternoon,Medium,High,Classification,<5 mins,Suburban,Cloud Server
+Camera,Accident,Foggy,Morning,Medium,Medium,Clustering,<5 mins,Rural,Edge Device
+Camera,Accident,Clear,Morning,Medium,Medium,Anomaly Detection,5-15 mins,Rural,On-premise Server
+LIDAR,Accident,Rainy,Night,High,Medium,Clustering,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Foggy,Afternoon,Low,Medium,Anomaly Detection,<5 mins,Urban,Cloud Server
+Camera,Road Block,Foggy,Afternoon,Low,Low,Clustering,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Clear,Afternoon,High,High,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Rainy,Afternoon,Medium,Medium,Clustering,5-15 mins,Rural,Cloud Server
+Camera,Traffic Jam,Rainy,Afternoon,Low,Medium,Classification,<5 mins,Urban,On-premise Server
+Camera,Road Block,Clear,Afternoon,High,Medium,Clustering,<5 mins,Urban,On-premise Server
+Radar,Road Block,Clear,Morning,Medium,Low,Clustering,5-15 mins,Rural,Edge Device
+LIDAR,Accident,Rainy,Morning,High,Low,Clustering,5-15 mins,Suburban,Edge Device
+LIDAR,Road Block,Foggy,Night,High,Medium,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Rainy,Morning,Medium,Medium,Classification,5-15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Night,High,High,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Clear,Afternoon,Low,Low,Clustering,<5 mins,Suburban,Cloud Server
+LIDAR,Accident,Clear,Night,Medium,Medium,Clustering,<5 mins,Suburban,On-premise Server
+Radar,Accident,Rainy,Afternoon,High,Medium,Clustering,5-15 mins,Urban,Cloud Server
+LIDAR,Accident,Clear,Night,Low,Medium,Clustering,<5 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Low,High,Classification,>15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Afternoon,Low,Medium,Anomaly Detection,>15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Rainy,Afternoon,Low,High,Clustering,5-15 mins,Suburban,Cloud Server
+LIDAR,Accident,Foggy,Night,Medium,High,Clustering,<5 mins,Rural,On-premise Server
+Radar,Traffic Jam,Foggy,Morning,Medium,High,Clustering,>15 mins,Suburban,On-premise Server
+Camera,Road Block,Clear,Morning,Medium,Low,Clustering,5-15 mins,Suburban,Cloud Server
+Radar,Accident,Foggy,Afternoon,Medium,Low,Clustering,>15 mins,Urban,Edge Device
+Camera,Traffic Jam,Foggy,Night,Medium,Medium,Classification,<5 mins,Rural,Cloud Server
+Radar,Accident,Foggy,Morning,Low,Medium,Clustering,<5 mins,Urban,On-premise Server
+LIDAR,Road Block,Foggy,Afternoon,High,Medium,Classification,5-15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Clear,Night,Low,High,Anomaly Detection,<5 mins,Urban,Cloud Server
+LIDAR,Accident,Rainy,Afternoon,Low,High,Classification,5-15 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Night,High,High,Classification,>15 mins,Suburban,Cloud Server
+Camera,Accident,Clear,Night,Low,Low,Clustering,<5 mins,Rural,Edge Device
+Camera,Traffic Jam,Clear,Morning,Medium,Low,Classification,5-15 mins,Urban,On-premise Server
+Camera,Traffic Jam,Foggy,Afternoon,Low,High,Anomaly Detection,>15 mins,Rural,On-premise Server
+Radar,Accident,Foggy,Afternoon,Low,Medium,Clustering,5-15 mins,Rural,Cloud Server
+Radar,Accident,Clear,Night,Medium,High,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Traffic Jam,Rainy,Night,Medium,Medium,Classification,5-15 mins,Urban,Cloud Server
+LIDAR,Accident,Foggy,Night,Low,Medium,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Rainy,Morning,Medium,Low,Clustering,>15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Afternoon,High,Low,Clustering,>15 mins,Urban,Cloud Server
+Radar,Road Block,Clear,Afternoon,Low,Low,Classification,>15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Clear,Night,Medium,Low,Clustering,<5 mins,Suburban,Edge Device
+Radar,Road Block,Rainy,Afternoon,Low,Low,Classification,<5 mins,Suburban,Cloud Server
+Camera,Road Block,Foggy,Morning,Low,High,Clustering,<5 mins,Rural,On-premise Server
+Radar,Road Block,Foggy,Morning,High,Medium,Anomaly Detection,>15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Morning,Low,Low,Anomaly Detection,<5 mins,Urban,Cloud Server
+Radar,Accident,Foggy,Night,Medium,Medium,Anomaly Detection,>15 mins,Urban,Edge Device
+Camera,Accident,Rainy,Morning,High,High,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Radar,Road Block,Clear,Morning,Medium,High,Anomaly Detection,<5 mins,Rural,Cloud Server
+LIDAR,Accident,Rainy,Night,Medium,Low,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Radar,Road Block,Foggy,Night,Medium,High,Classification,>15 mins,Urban,On-premise Server
+Camera,Traffic Jam,Foggy,Morning,High,High,Anomaly Detection,>15 mins,Rural,On-premise Server
+Radar,Road Block,Rainy,Night,Medium,High,Classification,5-15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Rainy,Morning,Low,Low,Classification,>15 mins,Rural,Cloud Server
+LIDAR,Road Block,Rainy,Afternoon,Medium,Medium,Classification,>15 mins,Rural,Cloud Server
+LIDAR,Road Block,Clear,Morning,High,Low,Clustering,5-15 mins,Rural,Edge Device
+Radar,Traffic Jam,Foggy,Morning,Low,High,Classification,5-15 mins,Rural,On-premise Server
+Camera,Road Block,Foggy,Afternoon,Low,Low,Classification,5-15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Night,Low,High,Clustering,>15 mins,Urban,On-premise Server
+Camera,Traffic Jam,Clear,Afternoon,Medium,Medium,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Accident,Rainy,Afternoon,High,Low,Classification,<5 mins,Urban,On-premise Server
+Radar,Traffic Jam,Rainy,Afternoon,Low,Medium,Clustering,<5 mins,Urban,On-premise Server
+Radar,Road Block,Foggy,Afternoon,Medium,Medium,Clustering,5-15 mins,Rural,On-premise Server
+Radar,Road Block,Rainy,Afternoon,Low,Low,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Accident,Clear,Morning,Medium,Low,Clustering,5-15 mins,Suburban,Edge Device
+Camera,Accident,Rainy,Night,Low,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Road Block,Rainy,Afternoon,High,High,Clustering,5-15 mins,Suburban,Cloud Server
+Radar,Road Block,Clear,Night,Low,Medium,Clustering,<5 mins,Suburban,On-premise Server
+LIDAR,Accident,Foggy,Afternoon,Medium,Medium,Clustering,>15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Foggy,Night,High,Medium,Anomaly Detection,>15 mins,Suburban,Edge Device
+Camera,Accident,Clear,Morning,High,Medium,Classification,>15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Rainy,Night,High,Medium,Classification,>15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Rainy,Morning,High,Medium,Anomaly Detection,5-15 mins,Rural,Cloud Server
+LIDAR,Accident,Foggy,Morning,Low,High,Clustering,>15 mins,Suburban,Cloud Server
+Radar,Accident,Clear,Morning,High,Low,Classification,>15 mins,Rural,Cloud Server
+Radar,Road Block,Foggy,Morning,Low,Low,Classification,>15 mins,Rural,On-premise Server
+Radar,Road Block,Foggy,Morning,High,Low,Clustering,<5 mins,Urban,On-premise Server
+Camera,Traffic Jam,Foggy,Afternoon,High,Medium,Classification,>15 mins,Urban,On-premise Server
+LIDAR,Traffic Jam,Foggy,Night,Low,Medium,Clustering,>15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Clear,Afternoon,High,Medium,Anomaly Detection,>15 mins,Rural,Cloud Server
+LIDAR,Road Block,Rainy,Afternoon,Medium,High,Clustering,<5 mins,Urban,Cloud Server
+Radar,Accident,Rainy,Night,Low,High,Clustering,<5 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Clear,Afternoon,High,High,Clustering,>15 mins,Suburban,Edge Device
+LIDAR,Traffic Jam,Clear,Afternoon,Medium,Low,Clustering,5-15 mins,Urban,Edge Device
+Radar,Road Block,Clear,Morning,High,High,Anomaly Detection,<5 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Clear,Afternoon,Medium,High,Classification,<5 mins,Urban,Edge Device
+LIDAR,Accident,Foggy,Morning,Low,Low,Classification,5-15 mins,Rural,Cloud Server
+Camera,Accident,Foggy,Morning,High,High,Anomaly Detection,>15 mins,Urban,Cloud Server
+Camera,Accident,Clear,Afternoon,High,High,Clustering,5-15 mins,Suburban,Edge Device
+Radar,Accident,Foggy,Morning,Low,Medium,Clustering,<5 mins,Suburban,On-premise Server
+Camera,Accident,Rainy,Night,Medium,Medium,Clustering,>15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Rainy,Night,Low,High,Clustering,5-15 mins,Rural,Cloud Server
+Camera,Traffic Jam,Foggy,Afternoon,Medium,High,Anomaly Detection,>15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Rainy,Night,Medium,Medium,Classification,5-15 mins,Rural,Cloud Server
+LIDAR,Accident,Clear,Night,High,High,Anomaly Detection,<5 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Medium,High,Anomaly Detection,<5 mins,Urban,Cloud Server
+Camera,Accident,Clear,Night,Low,High,Anomaly Detection,>15 mins,Urban,On-premise Server
+LIDAR,Traffic Jam,Foggy,Night,High,Low,Clustering,5-15 mins,Suburban,On-premise Server
+LIDAR,Accident,Clear,Morning,Low,Low,Clustering,<5 mins,Suburban,Cloud Server
+Camera,Road Block,Foggy,Night,High,Medium,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Radar,Accident,Clear,Afternoon,Medium,Low,Anomaly Detection,>15 mins,Urban,On-premise Server
+Radar,Road Block,Clear,Afternoon,Low,Low,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Rainy,Afternoon,Medium,High,Clustering,<5 mins,Suburban,On-premise Server
+LIDAR,Accident,Foggy,Morning,Medium,Low,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Road Block,Foggy,Morning,High,High,Clustering,<5 mins,Rural,On-premise Server
+Radar,Accident,Clear,Night,Low,Low,Classification,<5 mins,Suburban,On-premise Server
+Radar,Road Block,Clear,Morning,High,Low,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Radar,Road Block,Foggy,Morning,Low,High,Anomaly Detection,<5 mins,Urban,Cloud Server
+LIDAR,Road Block,Rainy,Morning,Low,High,Clustering,>15 mins,Suburban,Edge Device
+Camera,Traffic Jam,Foggy,Morning,Low,High,Clustering,<5 mins,Rural,Cloud Server
+Radar,Traffic Jam,Foggy,Morning,High,Medium,Clustering,5-15 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Foggy,Night,Low,Medium,Anomaly Detection,5-15 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Clear,Afternoon,Low,Low,Clustering,5-15 mins,Urban,On-premise Server
+Radar,Accident,Rainy,Night,Medium,High,Classification,>15 mins,Rural,Edge Device
+LIDAR,Accident,Clear,Morning,High,Medium,Anomaly Detection,<5 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Clear,Morning,High,Low,Clustering,<5 mins,Urban,Cloud Server
+Radar,Traffic Jam,Rainy,Morning,Medium,High,Classification,5-15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Clear,Morning,High,Medium,Anomaly Detection,<5 mins,Rural,Edge Device
+Radar,Road Block,Foggy,Afternoon,Medium,High,Clustering,<5 mins,Suburban,On-premise Server
+Radar,Road Block,Foggy,Night,Low,Medium,Classification,<5 mins,Rural,On-premise Server
+Radar,Accident,Foggy,Night,High,High,Clustering,5-15 mins,Suburban,On-premise Server
+Camera,Accident,Rainy,Afternoon,Medium,High,Classification,<5 mins,Suburban,Edge Device
+Radar,Traffic Jam,Foggy,Night,Low,Low,Classification,>15 mins,Urban,Edge Device
+LIDAR,Accident,Rainy,Morning,High,Low,Classification,5-15 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Foggy,Morning,Low,Medium,Clustering,>15 mins,Rural,Cloud Server
+Radar,Road Block,Rainy,Night,Medium,Medium,Classification,5-15 mins,Urban,Cloud Server
+Camera,Accident,Clear,Afternoon,High,High,Classification,>15 mins,Urban,Cloud Server
+LIDAR,Accident,Rainy,Morning,Medium,Low,Clustering,<5 mins,Suburban,On-premise Server
+LIDAR,Accident,Rainy,Morning,High,High,Clustering,>15 mins,Urban,Cloud Server
+Radar,Road Block,Foggy,Morning,High,High,Classification,>15 mins,Urban,Cloud Server
+Radar,Accident,Clear,Night,High,High,Clustering,<5 mins,Suburban,Edge Device
+LIDAR,Road Block,Clear,Morning,Low,Medium,Anomaly Detection,<5 mins,Suburban,Edge Device
+LIDAR,Road Block,Foggy,Night,High,High,Classification,5-15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Clear,Afternoon,Medium,High,Classification,<5 mins,Urban,On-premise Server
+LIDAR,Road Block,Clear,Night,High,Low,Classification,5-15 mins,Rural,Cloud Server
+Camera,Accident,Rainy,Morning,Medium,Medium,Clustering,>15 mins,Rural,On-premise Server
+LIDAR,Accident,Clear,Morning,High,Medium,Clustering,>15 mins,Suburban,On-premise Server
+LIDAR,Road Block,Rainy,Morning,High,High,Anomaly Detection,<5 mins,Rural,Edge Device
+Camera,Road Block,Foggy,Night,Low,Low,Classification,<5 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Rainy,Afternoon,High,High,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Accident,Clear,Night,High,Low,Anomaly Detection,<5 mins,Urban,On-premise Server
+Radar,Accident,Foggy,Afternoon,Medium,Medium,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Clear,Night,Low,Low,Anomaly Detection,5-15 mins,Rural,On-premise Server
+LIDAR,Road Block,Clear,Afternoon,Medium,Low,Classification,<5 mins,Suburban,On-premise Server
+Camera,Road Block,Foggy,Night,Medium,High,Anomaly Detection,<5 mins,Rural,Edge Device
+Camera,Accident,Foggy,Night,High,High,Classification,<5 mins,Urban,Cloud Server
+LIDAR,Accident,Rainy,Afternoon,Low,High,Anomaly Detection,5-15 mins,Urban,Edge Device
+Camera,Road Block,Rainy,Afternoon,Medium,High,Classification,<5 mins,Rural,Edge Device
+Camera,Accident,Foggy,Night,High,High,Clustering,5-15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Clear,Night,Low,Medium,Classification,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Foggy,Morning,Medium,Medium,Anomaly Detection,>15 mins,Urban,Cloud Server
+LIDAR,Accident,Foggy,Morning,High,High,Classification,<5 mins,Urban,On-premise Server
+LIDAR,Accident,Clear,Night,High,High,Anomaly Detection,5-15 mins,Rural,Edge Device
+Radar,Accident,Rainy,Afternoon,Low,High,Classification,>15 mins,Urban,On-premise Server
+LIDAR,Accident,Rainy,Afternoon,Medium,Medium,Anomaly Detection,>15 mins,Rural,On-premise Server
+LIDAR,Road Block,Foggy,Night,High,High,Clustering,<5 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Clear,Afternoon,High,Low,Anomaly Detection,>15 mins,Suburban,On-premise Server
+Radar,Road Block,Foggy,Night,Medium,Low,Clustering,5-15 mins,Rural,Edge Device
+Radar,Accident,Clear,Afternoon,Medium,Medium,Anomaly Detection,<5 mins,Suburban,Cloud Server
+Radar,Accident,Clear,Morning,Low,High,Anomaly Detection,<5 mins,Rural,Cloud Server
+Camera,Traffic Jam,Rainy,Night,Low,Low,Clustering,>15 mins,Suburban,Cloud Server
+LIDAR,Accident,Clear,Afternoon,Low,Low,Clustering,5-15 mins,Urban,Cloud Server
+LIDAR,Accident,Foggy,Morning,Low,Low,Clustering,<5 mins,Urban,On-premise Server
+Radar,Traffic Jam,Rainy,Afternoon,Medium,Low,Anomaly Detection,<5 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Foggy,Afternoon,Medium,High,Anomaly Detection,<5 mins,Urban,On-premise Server
+Radar,Accident,Rainy,Night,High,Low,Anomaly Detection,>15 mins,Suburban,Cloud Server
+LIDAR,Accident,Clear,Morning,Medium,Low,Classification,5-15 mins,Rural,On-premise Server
+LIDAR,Accident,Rainy,Morning,Low,Low,Classification,>15 mins,Rural,On-premise Server
+Radar,Accident,Clear,Morning,Low,Low,Classification,5-15 mins,Urban,On-premise Server
+Camera,Accident,Foggy,Afternoon,High,High,Classification,5-15 mins,Suburban,Edge Device
+Camera,Traffic Jam,Clear,Night,Medium,Low,Classification,>15 mins,Rural,Edge Device
+Camera,Road Block,Clear,Morning,Low,Medium,Classification,>15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Rainy,Afternoon,Medium,High,Classification,>15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Clear,Night,High,Medium,Classification,5-15 mins,Urban,Edge Device
+Camera,Road Block,Clear,Afternoon,Medium,Low,Clustering,<5 mins,Rural,On-premise Server
+LIDAR,Accident,Clear,Afternoon,High,High,Clustering,>15 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Rainy,Morning,High,Low,Clustering,<5 mins,Urban,On-premise Server
+Camera,Road Block,Clear,Morning,High,Low,Anomaly Detection,>15 mins,Urban,Edge Device
+Radar,Accident,Rainy,Night,High,Medium,Anomaly Detection,<5 mins,Rural,Edge Device
+Camera,Accident,Clear,Morning,High,Low,Anomaly Detection,>15 mins,Urban,On-premise Server
+LIDAR,Road Block,Foggy,Morning,High,Low,Clustering,>15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Morning,Low,Low,Classification,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Night,Low,Medium,Anomaly Detection,<5 mins,Rural,Cloud Server
+Radar,Road Block,Clear,Morning,Low,Medium,Clustering,5-15 mins,Suburban,On-premise Server
+Radar,Road Block,Rainy,Afternoon,Low,Low,Classification,5-15 mins,Rural,Edge Device
+Radar,Accident,Rainy,Night,Low,High,Anomaly Detection,>15 mins,Rural,Cloud Server
+Radar,Road Block,Rainy,Night,Low,High,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Road Block,Clear,Night,High,Medium,Anomaly Detection,>15 mins,Rural,On-premise Server
+Camera,Accident,Foggy,Morning,Low,Medium,Anomaly Detection,<5 mins,Rural,Cloud Server
+LIDAR,Road Block,Clear,Afternoon,Low,Low,Anomaly Detection,5-15 mins,Rural,Cloud Server
+LIDAR,Road Block,Clear,Morning,High,Low,Anomaly Detection,<5 mins,Suburban,Cloud Server
+Camera,Accident,Clear,Afternoon,Low,Medium,Clustering,<5 mins,Urban,Edge Device
+Camera,Road Block,Rainy,Morning,High,Medium,Anomaly Detection,<5 mins,Rural,On-premise Server
+Camera,Traffic Jam,Rainy,Night,Medium,Low,Clustering,>15 mins,Suburban,Edge Device
+LIDAR,Traffic Jam,Rainy,Morning,Medium,Medium,Classification,5-15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Foggy,Afternoon,High,Medium,Clustering,>15 mins,Rural,Cloud Server
+Camera,Accident,Foggy,Morning,High,High,Clustering,<5 mins,Rural,Edge Device
+Radar,Accident,Foggy,Afternoon,Low,High,Classification,<5 mins,Suburban,Edge Device
+Camera,Road Block,Clear,Morning,Medium,Low,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Radar,Accident,Rainy,Afternoon,Medium,Low,Anomaly Detection,>15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Afternoon,High,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+LIDAR,Accident,Rainy,Night,Medium,Low,Anomaly Detection,>15 mins,Urban,Edge Device
+Radar,Road Block,Clear,Afternoon,Medium,Low,Classification,>15 mins,Suburban,Cloud Server
+LIDAR,Accident,Clear,Night,Low,Low,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Accident,Rainy,Morning,High,High,Clustering,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Foggy,Night,High,Medium,Anomaly Detection,<5 mins,Urban,Edge Device
+LIDAR,Accident,Clear,Night,Low,High,Clustering,<5 mins,Suburban,Edge Device
+Camera,Traffic Jam,Foggy,Night,Medium,Medium,Anomaly Detection,>15 mins,Urban,On-premise Server
+Radar,Road Block,Rainy,Morning,High,Low,Classification,>15 mins,Rural,On-premise Server
+LIDAR,Accident,Clear,Night,Low,Medium,Anomaly Detection,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Afternoon,High,High,Anomaly Detection,>15 mins,Urban,Cloud Server
+Camera,Road Block,Clear,Afternoon,Medium,High,Clustering,5-15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Rainy,Night,High,Medium,Classification,5-15 mins,Urban,Edge Device
+LIDAR,Accident,Clear,Morning,Low,High,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Road Block,Clear,Night,Medium,Low,Classification,<5 mins,Urban,Edge Device
+LIDAR,Road Block,Foggy,Afternoon,Low,High,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Rainy,Afternoon,Medium,High,Anomaly Detection,>15 mins,Rural,Cloud Server
+Camera,Road Block,Rainy,Night,Medium,High,Classification,5-15 mins,Rural,Cloud Server
+LIDAR,Road Block,Foggy,Morning,Medium,Medium,Anomaly Detection,<5 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Morning,Low,Medium,Clustering,<5 mins,Suburban,Cloud Server
+Radar,Accident,Clear,Morning,Low,High,Clustering,>15 mins,Suburban,Cloud Server
+LIDAR,Road Block,Clear,Night,Medium,Medium,Anomaly Detection,<5 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Rainy,Night,Low,Medium,Clustering,<5 mins,Urban,Cloud Server
+LIDAR,Road Block,Clear,Morning,Low,Medium,Classification,>15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Afternoon,High,Medium,Classification,<5 mins,Urban,Edge Device
+Radar,Accident,Clear,Morning,Medium,Medium,Clustering,>15 mins,Rural,Edge Device
+Radar,Road Block,Clear,Afternoon,High,Low,Clustering,5-15 mins,Suburban,On-premise Server
+Radar,Road Block,Rainy,Night,High,High,Classification,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Morning,Medium,Low,Classification,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Clear,Night,Medium,Low,Clustering,>15 mins,Rural,Cloud Server
+Radar,Accident,Clear,Night,Medium,Medium,Clustering,5-15 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Clear,Morning,Medium,Low,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Rainy,Afternoon,Medium,Medium,Anomaly Detection,<5 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Foggy,Night,Low,Medium,Anomaly Detection,>15 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Rainy,Morning,High,Low,Anomaly Detection,>15 mins,Urban,Cloud Server
+LIDAR,Road Block,Rainy,Morning,Medium,High,Anomaly Detection,<5 mins,Suburban,On-premise Server
+Radar,Road Block,Foggy,Afternoon,Low,Medium,Classification,>15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Clear,Morning,Low,Low,Clustering,<5 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Morning,High,Low,Classification,<5 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Afternoon,Medium,Medium,Classification,>15 mins,Urban,Cloud Server
+LIDAR,Road Block,Rainy,Afternoon,Medium,Low,Clustering,5-15 mins,Urban,Edge Device
+Radar,Accident,Clear,Night,Low,Low,Classification,>15 mins,Suburban,Edge Device
+Radar,Accident,Foggy,Night,Medium,High,Anomaly Detection,<5 mins,Urban,Cloud Server
+Radar,Road Block,Clear,Night,Medium,High,Anomaly Detection,>15 mins,Urban,Edge Device
+Radar,Road Block,Clear,Night,Medium,High,Anomaly Detection,<5 mins,Suburban,Cloud Server
+Radar,Accident,Clear,Morning,High,Low,Anomaly Detection,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Night,Medium,Low,Classification,>15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Foggy,Night,Medium,High,Anomaly Detection,<5 mins,Suburban,Cloud Server
+Camera,Road Block,Clear,Afternoon,Low,High,Anomaly Detection,>15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Clear,Afternoon,Low,Low,Clustering,5-15 mins,Suburban,Edge Device
+Radar,Road Block,Clear,Morning,Medium,High,Clustering,5-15 mins,Urban,Cloud Server
+Camera,Accident,Rainy,Morning,Medium,Medium,Classification,>15 mins,Suburban,Cloud Server
+Radar,Road Block,Rainy,Night,Low,Medium,Clustering,>15 mins,Suburban,On-premise Server
+LIDAR,Road Block,Clear,Morning,High,Low,Classification,>15 mins,Rural,Edge Device
+Radar,Road Block,Foggy,Afternoon,Medium,High,Classification,<5 mins,Suburban,Edge Device
+LIDAR,Accident,Foggy,Afternoon,Medium,High,Classification,5-15 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Rainy,Night,High,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Night,High,Low,Classification,<5 mins,Suburban,Cloud Server
+LIDAR,Road Block,Clear,Afternoon,Low,High,Clustering,5-15 mins,Urban,Cloud Server
+Camera,Accident,Rainy,Night,High,Medium,Clustering,<5 mins,Rural,Edge Device
+Radar,Road Block,Foggy,Afternoon,Low,Medium,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Foggy,Afternoon,Medium,Medium,Anomaly Detection,<5 mins,Rural,On-premise Server
+Radar,Accident,Clear,Morning,High,Low,Classification,<5 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Night,Medium,Low,Classification,>15 mins,Suburban,On-premise Server
+Camera,Road Block,Foggy,Morning,High,High,Classification,5-15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Clear,Night,Low,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Radar,Accident,Clear,Night,Low,Medium,Anomaly Detection,>15 mins,Rural,Cloud Server
+LIDAR,Road Block,Rainy,Afternoon,Medium,Low,Clustering,5-15 mins,Urban,On-premise Server
+Camera,Traffic Jam,Rainy,Night,High,High,Classification,5-15 mins,Urban,Edge Device
+Radar,Traffic Jam,Clear,Night,Medium,High,Anomaly Detection,5-15 mins,Urban,On-premise Server
+LIDAR,Traffic Jam,Clear,Morning,Low,Medium,Classification,5-15 mins,Suburban,On-premise Server
+LIDAR,Accident,Rainy,Afternoon,Low,High,Classification,<5 mins,Rural,On-premise Server
+Radar,Road Block,Foggy,Morning,Low,High,Anomaly Detection,<5 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Rainy,Morning,High,High,Classification,<5 mins,Urban,On-premise Server
+LIDAR,Accident,Clear,Afternoon,High,Low,Classification,>15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Night,Medium,Low,Classification,<5 mins,Rural,Cloud Server
+LIDAR,Accident,Foggy,Night,Medium,High,Anomaly Detection,5-15 mins,Rural,Edge Device
+Camera,Accident,Rainy,Afternoon,Low,Low,Clustering,5-15 mins,Urban,On-premise Server
+LIDAR,Accident,Foggy,Night,Medium,High,Anomaly Detection,<5 mins,Suburban,Edge Device
+Camera,Accident,Clear,Morning,High,Medium,Clustering,>15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Night,High,Low,Clustering,5-15 mins,Urban,Edge Device
+Camera,Traffic Jam,Rainy,Afternoon,Low,High,Classification,<5 mins,Rural,On-premise Server
+Camera,Road Block,Foggy,Afternoon,High,Medium,Anomaly Detection,<5 mins,Suburban,Cloud Server
+LIDAR,Accident,Foggy,Morning,High,High,Clustering,<5 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Foggy,Morning,High,Medium,Classification,>15 mins,Rural,On-premise Server
+Camera,Accident,Clear,Morning,High,High,Classification,>15 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Clear,Afternoon,Medium,Low,Clustering,5-15 mins,Urban,On-premise Server
+LIDAR,Accident,Clear,Morning,Medium,Low,Clustering,<5 mins,Urban,Cloud Server
+Radar,Traffic Jam,Rainy,Afternoon,Medium,High,Clustering,>15 mins,Rural,Cloud Server
+LIDAR,Road Block,Foggy,Morning,Medium,Medium,Clustering,5-15 mins,Urban,Edge Device
+Radar,Traffic Jam,Clear,Morning,Medium,Low,Clustering,<5 mins,Rural,Cloud Server
+LIDAR,Road Block,Rainy,Morning,Low,Medium,Clustering,5-15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Foggy,Morning,High,Medium,Clustering,5-15 mins,Rural,On-premise Server
+LIDAR,Road Block,Rainy,Morning,Low,Low,Clustering,5-15 mins,Suburban,Edge Device
+Camera,Accident,Clear,Afternoon,Low,Low,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Radar,Accident,Rainy,Afternoon,High,High,Clustering,<5 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Afternoon,Medium,High,Anomaly Detection,<5 mins,Rural,Edge Device
+Camera,Road Block,Clear,Night,Low,High,Clustering,>15 mins,Suburban,Edge Device
+Radar,Accident,Foggy,Morning,Medium,Low,Clustering,5-15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Rainy,Afternoon,Medium,Medium,Clustering,>15 mins,Suburban,On-premise Server
+LIDAR,Accident,Rainy,Morning,High,Medium,Classification,<5 mins,Rural,On-premise Server
+Camera,Accident,Rainy,Afternoon,Medium,Medium,Anomaly Detection,<5 mins,Suburban,Edge Device
+LIDAR,Accident,Foggy,Afternoon,High,Low,Clustering,>15 mins,Urban,On-premise Server
+Camera,Traffic Jam,Rainy,Night,Low,Medium,Classification,<5 mins,Urban,On-premise Server
+LIDAR,Accident,Foggy,Afternoon,Medium,Medium,Anomaly Detection,>15 mins,Urban,Edge Device
+Camera,Accident,Clear,Afternoon,Medium,High,Clustering,>15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Medium,Low,Classification,5-15 mins,Urban,On-premise Server
+LIDAR,Accident,Foggy,Night,Low,Low,Clustering,>15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Foggy,Night,High,Low,Clustering,<5 mins,Rural,Cloud Server
+Camera,Road Block,Foggy,Morning,High,Low,Classification,>15 mins,Rural,Cloud Server
+Radar,Accident,Rainy,Night,Medium,Low,Anomaly Detection,<5 mins,Urban,On-premise Server
+LIDAR,Accident,Clear,Night,High,Medium,Anomaly Detection,5-15 mins,Rural,Cloud Server
+LIDAR,Road Block,Clear,Night,High,Low,Classification,<5 mins,Rural,On-premise Server
+Camera,Road Block,Clear,Afternoon,Low,Low,Clustering,<5 mins,Urban,On-premise Server
+Radar,Accident,Foggy,Night,Medium,Medium,Anomaly Detection,<5 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Foggy,Night,High,Medium,Clustering,5-15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Foggy,Night,High,Low,Clustering,5-15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Clear,Night,Low,Low,Clustering,5-15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Clear,Night,Medium,High,Clustering,<5 mins,Rural,On-premise Server
+Camera,Traffic Jam,Clear,Night,High,Medium,Classification,>15 mins,Urban,Cloud Server
+Radar,Accident,Rainy,Afternoon,High,High,Classification,<5 mins,Urban,On-premise Server
+Camera,Accident,Foggy,Night,High,Medium,Clustering,>15 mins,Rural,Edge Device
+Radar,Traffic Jam,Rainy,Morning,High,Low,Anomaly Detection,5-15 mins,Urban,Edge Device
+Camera,Road Block,Foggy,Afternoon,High,Medium,Clustering,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Clear,Night,Low,Medium,Anomaly Detection,>15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Foggy,Night,High,Low,Classification,>15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Night,High,High,Anomaly Detection,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Medium,Low,Classification,>15 mins,Urban,Cloud Server
+Radar,Accident,Clear,Night,Low,Low,Classification,5-15 mins,Suburban,Edge Device
+Camera,Accident,Foggy,Afternoon,Low,Low,Classification,5-15 mins,Rural,On-premise Server
+Camera,Accident,Clear,Night,Medium,High,Clustering,>15 mins,Urban,Edge Device
+LIDAR,Accident,Foggy,Morning,Low,Medium,Classification,>15 mins,Urban,On-premise Server
+LIDAR,Accident,Clear,Morning,High,Medium,Clustering,5-15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Morning,Medium,Medium,Anomaly Detection,<5 mins,Rural,On-premise Server
+Radar,Traffic Jam,Clear,Night,Medium,High,Anomaly Detection,>15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Clear,Night,Medium,Low,Anomaly Detection,<5 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Rainy,Night,Low,Low,Anomaly Detection,>15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Morning,Medium,Low,Clustering,<5 mins,Urban,On-premise Server
+Camera,Traffic Jam,Clear,Morning,Low,Medium,Classification,>15 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Foggy,Night,High,Medium,Clustering,>15 mins,Rural,Edge Device
+LIDAR,Accident,Clear,Morning,Medium,High,Classification,5-15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Clear,Afternoon,Low,High,Classification,<5 mins,Rural,Edge Device
+Camera,Accident,Foggy,Night,Medium,High,Classification,5-15 mins,Rural,Edge Device
+Radar,Traffic Jam,Foggy,Afternoon,High,Medium,Classification,>15 mins,Suburban,On-premise Server
+Camera,Road Block,Rainy,Morning,Low,High,Clustering,<5 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Clear,Night,Low,Medium,Anomaly Detection,>15 mins,Rural,On-premise Server
+Camera,Accident,Clear,Afternoon,Low,Low,Anomaly Detection,<5 mins,Urban,Cloud Server
+Radar,Road Block,Clear,Night,High,High,Classification,<5 mins,Urban,On-premise Server
+Radar,Traffic Jam,Rainy,Night,Low,Medium,Classification,>15 mins,Urban,On-premise Server
+Radar,Accident,Clear,Night,Medium,High,Classification,<5 mins,Rural,On-premise Server
+Radar,Traffic Jam,Foggy,Afternoon,High,High,Anomaly Detection,>15 mins,Suburban,On-premise Server
+Radar,Road Block,Clear,Night,High,Medium,Clustering,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Foggy,Night,Medium,Medium,Classification,5-15 mins,Urban,Edge Device
+Camera,Road Block,Foggy,Afternoon,High,High,Classification,<5 mins,Rural,Cloud Server
+Camera,Road Block,Rainy,Night,Low,Medium,Classification,>15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Rainy,Night,High,Medium,Clustering,5-15 mins,Suburban,Edge Device
+LIDAR,Accident,Foggy,Morning,High,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Afternoon,Medium,High,Classification,<5 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Rainy,Night,Low,High,Clustering,5-15 mins,Suburban,On-premise Server
+Camera,Accident,Foggy,Afternoon,Medium,Low,Clustering,5-15 mins,Rural,Cloud Server
+Camera,Traffic Jam,Foggy,Morning,Medium,Low,Classification,>15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Morning,Medium,Medium,Classification,5-15 mins,Urban,On-premise Server
+Radar,Accident,Rainy,Afternoon,Low,High,Classification,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Clear,Night,High,Low,Anomaly Detection,5-15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Clear,Night,Medium,High,Classification,<5 mins,Suburban,Cloud Server
+Radar,Traffic Jam,Foggy,Night,Low,High,Clustering,5-15 mins,Urban,On-premise Server
+Radar,Accident,Clear,Morning,Low,Low,Clustering,<5 mins,Rural,Cloud Server
+Camera,Accident,Rainy,Afternoon,High,High,Clustering,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Foggy,Morning,Low,Low,Anomaly Detection,>15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Rainy,Morning,Medium,Medium,Clustering,>15 mins,Rural,Cloud Server
+Camera,Accident,Rainy,Afternoon,Medium,Medium,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Afternoon,Medium,High,Anomaly Detection,>15 mins,Rural,On-premise Server
+Radar,Road Block,Clear,Afternoon,Medium,High,Anomaly Detection,>15 mins,Suburban,On-premise Server
+Camera,Road Block,Rainy,Night,Medium,High,Clustering,>15 mins,Rural,On-premise Server
+LIDAR,Road Block,Rainy,Morning,High,High,Clustering,>15 mins,Rural,Edge Device
+Camera,Traffic Jam,Foggy,Afternoon,Low,Medium,Classification,<5 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Morning,Medium,High,Anomaly Detection,<5 mins,Urban,Cloud Server
+Radar,Accident,Clear,Night,High,Low,Classification,>15 mins,Urban,On-premise Server
+Radar,Road Block,Foggy,Afternoon,High,High,Anomaly Detection,>15 mins,Rural,On-premise Server
+Camera,Road Block,Clear,Morning,High,Low,Classification,5-15 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Clear,Night,Medium,High,Classification,5-15 mins,Urban,Edge Device
+Camera,Road Block,Clear,Morning,Low,High,Clustering,5-15 mins,Suburban,On-premise Server
+Camera,Accident,Foggy,Afternoon,Medium,High,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Accident,Foggy,Afternoon,Low,High,Classification,<5 mins,Rural,Edge Device
+Radar,Road Block,Clear,Night,High,Low,Anomaly Detection,<5 mins,Urban,Edge Device
+Camera,Accident,Rainy,Morning,Low,High,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Rainy,Afternoon,Medium,Medium,Clustering,<5 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Rainy,Night,Low,High,Classification,5-15 mins,Rural,Cloud Server
+Radar,Accident,Rainy,Morning,High,Low,Clustering,5-15 mins,Urban,On-premise Server
+Radar,Road Block,Clear,Afternoon,Low,Low,Anomaly Detection,>15 mins,Urban,Edge Device
+Camera,Road Block,Rainy,Afternoon,High,Medium,Classification,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Night,Low,High,Clustering,<5 mins,Suburban,Cloud Server
+Camera,Road Block,Rainy,Afternoon,Medium,High,Clustering,<5 mins,Urban,Edge Device
+Radar,Road Block,Rainy,Afternoon,High,High,Clustering,>15 mins,Suburban,Edge Device
+LIDAR,Accident,Rainy,Night,High,Low,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Accident,Clear,Night,Medium,Low,Anomaly Detection,<5 mins,Urban,On-premise Server
+Camera,Road Block,Foggy,Afternoon,Medium,High,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Night,High,High,Clustering,<5 mins,Urban,Cloud Server
+Camera,Accident,Rainy,Morning,Low,Low,Anomaly Detection,>15 mins,Suburban,Edge Device
+Camera,Road Block,Rainy,Night,High,High,Classification,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Afternoon,High,Medium,Clustering,<5 mins,Rural,On-premise Server
+LIDAR,Accident,Clear,Morning,High,High,Anomaly Detection,5-15 mins,Rural,Edge Device
+Camera,Traffic Jam,Clear,Night,Low,Medium,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Camera,Road Block,Rainy,Night,Medium,High,Classification,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Foggy,Night,Low,High,Anomaly Detection,>15 mins,Rural,Cloud Server
+Radar,Accident,Foggy,Morning,Medium,Medium,Clustering,>15 mins,Urban,On-premise Server
+LIDAR,Road Block,Rainy,Afternoon,Medium,Medium,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Radar,Road Block,Clear,Night,Medium,Medium,Clustering,>15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Foggy,Morning,High,High,Classification,<5 mins,Rural,Edge Device
+Radar,Traffic Jam,Clear,Morning,Low,Low,Anomaly Detection,>15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Clear,Night,Medium,Low,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Clear,Morning,High,Low,Anomaly Detection,>15 mins,Rural,Edge Device
+Radar,Accident,Foggy,Afternoon,Low,Medium,Classification,>15 mins,Rural,On-premise Server
+LIDAR,Accident,Clear,Night,Medium,Medium,Classification,5-15 mins,Rural,Edge Device
+LIDAR,Road Block,Foggy,Morning,High,Low,Anomaly Detection,>15 mins,Urban,Cloud Server
+LIDAR,Road Block,Rainy,Afternoon,Low,High,Clustering,<5 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Afternoon,Medium,Low,Classification,>15 mins,Rural,Cloud Server
+Camera,Accident,Foggy,Afternoon,High,High,Clustering,5-15 mins,Urban,Cloud Server
+Radar,Accident,Rainy,Morning,Medium,Medium,Clustering,>15 mins,Suburban,Cloud Server
+Camera,Accident,Foggy,Night,Low,Medium,Clustering,>15 mins,Suburban,Edge Device
+Camera,Road Block,Rainy,Morning,Low,High,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Accident,Foggy,Night,Medium,Medium,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Radar,Road Block,Foggy,Afternoon,High,Medium,Clustering,<5 mins,Urban,Cloud Server
+Radar,Accident,Clear,Night,Low,Medium,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Camera,Accident,Rainy,Morning,High,High,Classification,5-15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Night,High,Low,Clustering,>15 mins,Rural,Edge Device
+Radar,Accident,Foggy,Night,High,High,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Camera,Traffic Jam,Clear,Afternoon,High,Medium,Anomaly Detection,<5 mins,Rural,Cloud Server
+Camera,Road Block,Clear,Afternoon,Low,High,Anomaly Detection,5-15 mins,Suburban,Edge Device
+LIDAR,Accident,Rainy,Afternoon,Medium,High,Classification,<5 mins,Rural,Edge Device
+LIDAR,Road Block,Foggy,Afternoon,Low,Low,Anomaly Detection,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Rainy,Night,Medium,Medium,Anomaly Detection,>15 mins,Rural,Cloud Server
+Camera,Road Block,Rainy,Afternoon,Medium,Low,Anomaly Detection,<5 mins,Suburban,Edge Device
+Camera,Accident,Foggy,Afternoon,Medium,High,Clustering,<5 mins,Urban,Edge Device
+Radar,Road Block,Clear,Night,Low,Low,Classification,<5 mins,Suburban,Cloud Server
+LIDAR,Accident,Clear,Afternoon,High,High,Anomaly Detection,>15 mins,Suburban,Edge Device
+LIDAR,Road Block,Rainy,Night,High,Medium,Clustering,5-15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Rainy,Afternoon,Low,High,Classification,<5 mins,Urban,On-premise Server
+Radar,Accident,Foggy,Afternoon,Medium,Medium,Anomaly Detection,<5 mins,Rural,On-premise Server
+Radar,Accident,Clear,Night,High,Low,Clustering,<5 mins,Urban,Cloud Server
+Camera,Road Block,Clear,Morning,High,Low,Classification,>15 mins,Suburban,Edge Device
+Radar,Road Block,Clear,Night,High,High,Anomaly Detection,>15 mins,Urban,Edge Device
+Radar,Traffic Jam,Rainy,Morning,Low,Low,Anomaly Detection,5-15 mins,Suburban,Edge Device
+LIDAR,Accident,Foggy,Afternoon,Medium,High,Clustering,>15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Foggy,Morning,Low,Low,Clustering,>15 mins,Suburban,On-premise Server
+Camera,Accident,Foggy,Morning,High,Medium,Clustering,<5 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Rainy,Morning,Medium,Medium,Clustering,>15 mins,Suburban,On-premise Server
+Radar,Road Block,Foggy,Morning,Low,Low,Classification,>15 mins,Urban,Edge Device
+Radar,Traffic Jam,Foggy,Morning,Low,High,Anomaly Detection,>15 mins,Urban,Cloud Server
+Radar,Road Block,Rainy,Night,Low,Low,Clustering,5-15 mins,Rural,Cloud Server
+Radar,Accident,Rainy,Morning,Low,Medium,Anomaly Detection,<5 mins,Urban,Cloud Server
+LIDAR,Accident,Foggy,Afternoon,Medium,High,Anomaly Detection,<5 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Foggy,Morning,Medium,Low,Classification,<5 mins,Rural,Cloud Server
+Radar,Accident,Foggy,Night,Medium,High,Classification,>15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Foggy,Afternoon,High,High,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Clear,Night,High,High,Classification,5-15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Foggy,Night,Low,Medium,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Clear,Afternoon,Medium,High,Classification,>15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Medium,Low,Clustering,5-15 mins,Rural,On-premise Server
+LIDAR,Road Block,Rainy,Morning,Low,Low,Anomaly Detection,>15 mins,Rural,Edge Device
+Radar,Traffic Jam,Rainy,Night,Medium,Low,Anomaly Detection,>15 mins,Urban,On-premise Server
+Radar,Accident,Clear,Morning,High,Low,Anomaly Detection,<5 mins,Rural,On-premise Server
+Radar,Accident,Clear,Morning,High,High,Anomaly Detection,5-15 mins,Urban,Cloud Server
+LIDAR,Road Block,Rainy,Morning,Low,High,Clustering,>15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Clear,Afternoon,Low,Low,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Clear,Night,Low,High,Clustering,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Morning,Medium,Low,Clustering,<5 mins,Suburban,Cloud Server
+Radar,Road Block,Rainy,Night,Medium,Low,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Road Block,Rainy,Afternoon,High,High,Clustering,5-15 mins,Rural,Edge Device
+Camera,Road Block,Clear,Night,Medium,Low,Clustering,5-15 mins,Rural,Edge Device
+Radar,Accident,Rainy,Night,Low,Medium,Classification,<5 mins,Suburban,Edge Device
+Camera,Traffic Jam,Clear,Morning,Low,Medium,Classification,>15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Clear,Night,Medium,Low,Clustering,<5 mins,Suburban,Edge Device
+Radar,Road Block,Foggy,Night,Medium,Low,Clustering,>15 mins,Suburban,Cloud Server
+Camera,Accident,Clear,Night,Low,Low,Classification,<5 mins,Suburban,Edge Device
+Radar,Accident,Clear,Morning,Medium,Medium,Clustering,>15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Clear,Afternoon,Medium,Medium,Clustering,5-15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Foggy,Morning,High,Low,Anomaly Detection,>15 mins,Suburban,On-premise Server
+LIDAR,Accident,Rainy,Night,Low,Medium,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Road Block,Foggy,Afternoon,Medium,High,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Rainy,Night,Low,Low,Classification,<5 mins,Suburban,Edge Device
+Radar,Road Block,Foggy,Morning,Medium,Low,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Radar,Accident,Clear,Afternoon,Low,High,Anomaly Detection,>15 mins,Rural,Cloud Server
+LIDAR,Accident,Rainy,Afternoon,High,High,Classification,<5 mins,Suburban,Edge Device
+LIDAR,Road Block,Foggy,Night,Low,Low,Anomaly Detection,<5 mins,Urban,On-premise Server
+Radar,Road Block,Rainy,Night,Low,High,Classification,<5 mins,Suburban,On-premise Server
+Radar,Road Block,Rainy,Morning,Low,Low,Classification,>15 mins,Urban,On-premise Server
+LIDAR,Road Block,Rainy,Morning,Low,Medium,Classification,<5 mins,Suburban,On-premise Server
+LIDAR,Accident,Rainy,Morning,Low,Low,Classification,>15 mins,Rural,On-premise Server
+Radar,Road Block,Foggy,Morning,Medium,Low,Anomaly Detection,5-15 mins,Rural,Edge Device
+Radar,Accident,Foggy,Morning,Medium,Low,Anomaly Detection,<5 mins,Rural,Edge Device
+Camera,Road Block,Rainy,Night,Low,Medium,Clustering,>15 mins,Rural,Cloud Server
+Radar,Road Block,Clear,Afternoon,High,High,Anomaly Detection,5-15 mins,Rural,Edge Device
+Camera,Road Block,Clear,Morning,Low,Medium,Classification,<5 mins,Suburban,Edge Device
+Camera,Road Block,Clear,Night,High,Medium,Classification,<5 mins,Rural,Edge Device
+Camera,Accident,Clear,Night,Medium,High,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Camera,Accident,Foggy,Night,High,Medium,Clustering,<5 mins,Suburban,Cloud Server
+LIDAR,Road Block,Rainy,Morning,Medium,Medium,Classification,5-15 mins,Urban,Edge Device
+LIDAR,Road Block,Foggy,Morning,High,Medium,Classification,<5 mins,Suburban,Cloud Server
+Camera,Road Block,Foggy,Morning,High,High,Classification,>15 mins,Rural,Edge Device
+Radar,Traffic Jam,Clear,Morning,High,Low,Classification,<5 mins,Rural,Cloud Server
+Camera,Accident,Foggy,Night,Medium,Medium,Anomaly Detection,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Rainy,Night,High,Medium,Anomaly Detection,<5 mins,Suburban,Edge Device
+Radar,Traffic Jam,Foggy,Night,Low,Medium,Clustering,5-15 mins,Rural,On-premise Server
+Radar,Accident,Foggy,Morning,Low,High,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+Radar,Accident,Clear,Morning,Low,High,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+Camera,Accident,Rainy,Afternoon,Low,Low,Clustering,<5 mins,Suburban,Edge Device
+Camera,Accident,Rainy,Night,Medium,High,Clustering,<5 mins,Rural,Cloud Server
+Radar,Road Block,Rainy,Night,Medium,Medium,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Rainy,Morning,Medium,Medium,Anomaly Detection,<5 mins,Suburban,Cloud Server
+Radar,Accident,Rainy,Night,Medium,Low,Clustering,>15 mins,Urban,On-premise Server
+Camera,Road Block,Rainy,Morning,Low,High,Classification,5-15 mins,Rural,On-premise Server
+LIDAR,Road Block,Clear,Night,Medium,Medium,Classification,<5 mins,Rural,On-premise Server
+Camera,Road Block,Foggy,Afternoon,Medium,High,Anomaly Detection,<5 mins,Urban,Edge Device
+Radar,Accident,Foggy,Night,Low,Low,Classification,>15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Low,High,Classification,5-15 mins,Rural,Cloud Server
+Camera,Road Block,Foggy,Morning,High,Low,Classification,>15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Rainy,Afternoon,Low,Low,Classification,5-15 mins,Suburban,Cloud Server
+LIDAR,Road Block,Rainy,Morning,Medium,Low,Anomaly Detection,<5 mins,Rural,Edge Device
+LIDAR,Road Block,Foggy,Morning,High,High,Classification,>15 mins,Rural,Cloud Server
+Radar,Accident,Foggy,Night,High,Low,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Rainy,Night,Low,Low,Clustering,>15 mins,Rural,Cloud Server
+Camera,Road Block,Clear,Night,High,Medium,Clustering,5-15 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Foggy,Afternoon,High,Low,Clustering,<5 mins,Rural,Cloud Server
+Camera,Traffic Jam,Foggy,Morning,Medium,Medium,Clustering,5-15 mins,Suburban,Cloud Server
+Radar,Road Block,Clear,Night,Low,Medium,Clustering,<5 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Clear,Morning,Low,Low,Classification,>15 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Foggy,Morning,High,High,Clustering,5-15 mins,Rural,On-premise Server
+LIDAR,Road Block,Clear,Morning,High,High,Clustering,5-15 mins,Urban,Edge Device
+Camera,Accident,Clear,Night,High,Medium,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Rainy,Afternoon,Low,Low,Classification,<5 mins,Suburban,On-premise Server
+Camera,Accident,Rainy,Night,High,Medium,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Radar,Road Block,Foggy,Morning,Medium,Medium,Clustering,5-15 mins,Rural,Cloud Server
+LIDAR,Road Block,Rainy,Morning,High,Medium,Classification,<5 mins,Rural,Cloud Server
+Radar,Accident,Foggy,Morning,Low,Low,Clustering,>15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Clear,Morning,High,Low,Clustering,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Rainy,Night,Medium,Low,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Clear,Afternoon,High,Low,Clustering,>15 mins,Urban,Cloud Server
+LIDAR,Accident,Foggy,Night,Medium,Low,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Accident,Foggy,Night,Medium,Medium,Clustering,<5 mins,Urban,Edge Device
+Radar,Accident,Clear,Afternoon,High,High,Classification,5-15 mins,Suburban,Edge Device
+LIDAR,Accident,Rainy,Night,Medium,Low,Classification,5-15 mins,Rural,Cloud Server
+LIDAR,Accident,Clear,Morning,Low,High,Clustering,<5 mins,Rural,Cloud Server
+LIDAR,Accident,Foggy,Afternoon,Medium,High,Classification,>15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Clear,Night,Low,Low,Anomaly Detection,<5 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Afternoon,High,High,Clustering,<5 mins,Urban,On-premise Server
+LIDAR,Traffic Jam,Foggy,Night,Low,Medium,Clustering,<5 mins,Rural,Edge Device
+LIDAR,Road Block,Clear,Night,Medium,Low,Clustering,5-15 mins,Suburban,On-premise Server
+LIDAR,Accident,Foggy,Afternoon,High,High,Anomaly Detection,>15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Clear,Morning,Low,Medium,Anomaly Detection,>15 mins,Rural,Edge Device
+Radar,Accident,Rainy,Afternoon,Low,Low,Anomaly Detection,<5 mins,Rural,Cloud Server
+LIDAR,Accident,Foggy,Afternoon,High,Medium,Anomaly Detection,<5 mins,Suburban,Edge Device
+Camera,Accident,Clear,Night,High,High,Anomaly Detection,<5 mins,Rural,Edge Device
+LIDAR,Accident,Clear,Night,Medium,Low,Classification,5-15 mins,Suburban,Cloud Server
+Camera,Road Block,Foggy,Morning,Low,Medium,Classification,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Afternoon,Medium,High,Classification,5-15 mins,Rural,Edge Device
+LIDAR,Road Block,Clear,Night,High,Low,Classification,<5 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Foggy,Night,Medium,Medium,Anomaly Detection,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Rainy,Morning,High,Medium,Classification,<5 mins,Suburban,On-premise Server
+Radar,Accident,Foggy,Night,High,Low,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Radar,Traffic Jam,Clear,Afternoon,High,Low,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Clear,Afternoon,High,Low,Classification,>15 mins,Rural,Cloud Server
+LIDAR,Road Block,Foggy,Morning,Low,Low,Clustering,>15 mins,Urban,Cloud Server
+Camera,Accident,Foggy,Afternoon,Medium,Low,Clustering,>15 mins,Urban,Cloud Server
+Radar,Accident,Rainy,Morning,Medium,High,Classification,<5 mins,Suburban,On-premise Server
+Radar,Road Block,Clear,Night,Medium,Medium,Classification,5-15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Foggy,Morning,High,High,Anomaly Detection,>15 mins,Rural,Edge Device
+Camera,Accident,Clear,Night,High,Medium,Clustering,>15 mins,Rural,Cloud Server
+LIDAR,Accident,Rainy,Morning,High,High,Classification,<5 mins,Urban,On-premise Server
+LIDAR,Accident,Foggy,Night,High,Low,Anomaly Detection,<5 mins,Rural,Edge Device
+Radar,Road Block,Clear,Afternoon,Low,Low,Classification,5-15 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Rainy,Morning,Low,Low,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Rainy,Afternoon,Medium,High,Classification,>15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Rainy,Night,Medium,High,Clustering,<5 mins,Rural,On-premise Server
+LIDAR,Accident,Rainy,Morning,Medium,Medium,Clustering,<5 mins,Urban,Edge Device
+Radar,Road Block,Clear,Night,High,High,Clustering,<5 mins,Suburban,On-premise Server
+LIDAR,Accident,Rainy,Morning,Medium,Medium,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Camera,Accident,Foggy,Night,Medium,Low,Classification,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Clear,Afternoon,Low,High,Classification,>15 mins,Urban,Cloud Server
+Camera,Road Block,Clear,Afternoon,High,High,Classification,5-15 mins,Suburban,Edge Device
+Camera,Traffic Jam,Foggy,Afternoon,High,High,Classification,>15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Rainy,Afternoon,High,Low,Classification,>15 mins,Suburban,Cloud Server
+Radar,Traffic Jam,Rainy,Afternoon,Medium,High,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Radar,Traffic Jam,Clear,Afternoon,High,Medium,Anomaly Detection,>15 mins,Rural,Cloud Server
+Radar,Road Block,Rainy,Afternoon,High,Medium,Clustering,5-15 mins,Rural,Edge Device
+Camera,Traffic Jam,Rainy,Afternoon,Medium,Medium,Classification,<5 mins,Urban,On-premise Server
+Radar,Accident,Clear,Morning,Low,Low,Classification,>15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Night,High,High,Classification,<5 mins,Rural,Cloud Server
+Camera,Accident,Clear,Night,High,Medium,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Accident,Foggy,Afternoon,Low,Medium,Classification,<5 mins,Rural,On-premise Server
+Camera,Road Block,Rainy,Night,Medium,Medium,Clustering,>15 mins,Rural,Edge Device
+Radar,Traffic Jam,Rainy,Night,Medium,Low,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Foggy,Afternoon,High,Medium,Anomaly Detection,>15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Foggy,Afternoon,Low,High,Classification,<5 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Night,High,High,Anomaly Detection,<5 mins,Urban,Edge Device
+LIDAR,Road Block,Rainy,Afternoon,Medium,High,Classification,<5 mins,Urban,On-premise Server
+Radar,Road Block,Foggy,Afternoon,Low,Medium,Anomaly Detection,>15 mins,Rural,On-premise Server
+LIDAR,Road Block,Clear,Afternoon,Medium,High,Classification,>15 mins,Rural,Cloud Server
+LIDAR,Road Block,Foggy,Afternoon,High,High,Anomaly Detection,5-15 mins,Rural,On-premise Server
+LIDAR,Road Block,Foggy,Night,High,High,Clustering,<5 mins,Urban,On-premise Server
+Radar,Traffic Jam,Clear,Morning,High,Low,Clustering,5-15 mins,Suburban,Cloud Server
+LIDAR,Accident,Rainy,Morning,Medium,High,Anomaly Detection,5-15 mins,Rural,On-premise Server
+LIDAR,Accident,Rainy,Night,High,High,Classification,<5 mins,Urban,On-premise Server
+Camera,Road Block,Rainy,Night,High,High,Clustering,5-15 mins,Suburban,Edge Device
+Camera,Road Block,Foggy,Night,High,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Radar,Accident,Rainy,Night,High,Low,Anomaly Detection,>15 mins,Suburban,Edge Device
+Radar,Accident,Clear,Afternoon,Medium,Medium,Clustering,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Rainy,Night,Medium,Medium,Anomaly Detection,<5 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Morning,High,Low,Clustering,>15 mins,Urban,Cloud Server
+Radar,Accident,Rainy,Night,Medium,Medium,Classification,>15 mins,Urban,On-premise Server
+Camera,Traffic Jam,Rainy,Night,Low,Low,Classification,>15 mins,Rural,Cloud Server
+Camera,Accident,Rainy,Night,High,Low,Classification,5-15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Clear,Night,Medium,Low,Anomaly Detection,>15 mins,Rural,Edge Device
+Camera,Traffic Jam,Clear,Afternoon,Low,Low,Classification,<5 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Night,Low,Medium,Classification,5-15 mins,Suburban,Edge Device
+LIDAR,Road Block,Clear,Night,Medium,Medium,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+LIDAR,Accident,Clear,Night,High,High,Anomaly Detection,<5 mins,Urban,On-premise Server
+Camera,Road Block,Rainy,Afternoon,High,Low,Anomaly Detection,<5 mins,Rural,Cloud Server
+LIDAR,Road Block,Rainy,Morning,Medium,High,Clustering,<5 mins,Urban,On-premise Server
+Camera,Road Block,Rainy,Night,Low,Low,Clustering,>15 mins,Suburban,Cloud Server
+Radar,Traffic Jam,Foggy,Morning,High,High,Anomaly Detection,>15 mins,Urban,Edge Device
+LIDAR,Road Block,Rainy,Afternoon,Medium,Medium,Clustering,<5 mins,Rural,On-premise Server
+LIDAR,Accident,Foggy,Morning,Low,Low,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Foggy,Morning,Medium,High,Clustering,<5 mins,Rural,Edge Device
+LIDAR,Traffic Jam,Foggy,Afternoon,Low,Medium,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Accident,Foggy,Morning,High,High,Classification,>15 mins,Suburban,Edge Device
+Camera,Accident,Clear,Night,High,Low,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Camera,Accident,Foggy,Morning,High,Medium,Classification,>15 mins,Urban,Edge Device
+Camera,Road Block,Clear,Afternoon,High,Low,Anomaly Detection,>15 mins,Suburban,Edge Device
+LIDAR,Accident,Clear,Afternoon,Medium,Medium,Classification,<5 mins,Rural,Cloud Server
+Camera,Accident,Foggy,Morning,Low,Low,Classification,>15 mins,Urban,Edge Device
+Camera,Accident,Clear,Afternoon,High,Low,Clustering,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Medium,Low,Classification,>15 mins,Suburban,Cloud Server
+LIDAR,Accident,Foggy,Morning,Low,High,Clustering,5-15 mins,Suburban,On-premise Server
+Camera,Road Block,Foggy,Afternoon,Low,High,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Traffic Jam,Foggy,Afternoon,High,Low,Anomaly Detection,>15 mins,Rural,Cloud Server
+Camera,Traffic Jam,Foggy,Morning,Medium,High,Clustering,<5 mins,Suburban,On-premise Server
+Radar,Road Block,Foggy,Night,High,Low,Classification,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Rainy,Night,Medium,Low,Classification,>15 mins,Suburban,On-premise Server
+Radar,Traffic Jam,Clear,Afternoon,Medium,High,Clustering,<5 mins,Urban,Cloud Server
+Radar,Road Block,Rainy,Morning,High,Low,Clustering,<5 mins,Rural,Cloud Server
+Radar,Road Block,Foggy,Afternoon,High,Medium,Classification,<5 mins,Urban,Edge Device
+Radar,Road Block,Foggy,Night,High,Medium,Clustering,<5 mins,Rural,Edge Device
+LIDAR,Accident,Foggy,Night,Low,Low,Clustering,>15 mins,Suburban,Cloud Server
+LIDAR,Accident,Foggy,Morning,Low,Low,Clustering,<5 mins,Rural,Edge Device
+Camera,Accident,Foggy,Morning,High,Low,Anomaly Detection,5-15 mins,Suburban,Edge Device
+LIDAR,Accident,Foggy,Morning,Low,High,Anomaly Detection,<5 mins,Rural,Edge Device
+Radar,Road Block,Rainy,Night,Low,Low,Classification,<5 mins,Urban,Cloud Server
+Radar,Road Block,Clear,Night,Medium,High,Classification,>15 mins,Rural,Cloud Server
+Radar,Accident,Clear,Afternoon,Low,Low,Clustering,5-15 mins,Suburban,On-premise Server
+Radar,Accident,Clear,Night,High,High,Classification,>15 mins,Urban,On-premise Server
+Camera,Road Block,Rainy,Morning,Medium,High,Classification,<5 mins,Urban,On-premise Server
+Camera,Road Block,Foggy,Afternoon,High,High,Classification,<5 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Night,High,High,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Afternoon,Medium,High,Classification,>15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Foggy,Morning,Medium,High,Classification,<5 mins,Suburban,Edge Device
+Radar,Road Block,Rainy,Afternoon,Low,Low,Classification,5-15 mins,Rural,Edge Device
+Camera,Road Block,Rainy,Afternoon,Medium,Low,Clustering,>15 mins,Suburban,Edge Device
+Camera,Accident,Rainy,Afternoon,Low,Low,Classification,<5 mins,Urban,Edge Device
+Radar,Traffic Jam,Rainy,Afternoon,Low,Low,Anomaly Detection,5-15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Night,Low,Low,Classification,>15 mins,Urban,On-premise Server
+Camera,Traffic Jam,Foggy,Night,High,High,Anomaly Detection,>15 mins,Rural,On-premise Server
+Camera,Road Block,Rainy,Night,Low,Low,Anomaly Detection,>15 mins,Rural,Edge Device
+Camera,Traffic Jam,Rainy,Afternoon,High,Low,Classification,>15 mins,Urban,Edge Device
+Camera,Traffic Jam,Clear,Night,Low,High,Clustering,5-15 mins,Urban,Edge Device
+Radar,Accident,Clear,Night,Low,Medium,Anomaly Detection,<5 mins,Urban,Cloud Server
+Camera,Traffic Jam,Rainy,Afternoon,Medium,Medium,Clustering,5-15 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Rainy,Afternoon,Low,Medium,Anomaly Detection,<5 mins,Suburban,Cloud Server
+Camera,Road Block,Clear,Afternoon,High,High,Anomaly Detection,5-15 mins,Rural,Cloud Server
+LIDAR,Accident,Clear,Afternoon,Low,Medium,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+Camera,Road Block,Foggy,Morning,Low,Medium,Classification,5-15 mins,Urban,On-premise Server
+Camera,Accident,Clear,Night,Low,High,Anomaly Detection,<5 mins,Suburban,Cloud Server
+Camera,Road Block,Rainy,Afternoon,Low,High,Anomaly Detection,5-15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Rainy,Night,Medium,Medium,Clustering,<5 mins,Urban,On-premise Server
+Radar,Traffic Jam,Clear,Night,Low,High,Classification,5-15 mins,Rural,Edge Device
+Camera,Traffic Jam,Clear,Afternoon,Low,Low,Anomaly Detection,<5 mins,Rural,Edge Device
+LIDAR,Road Block,Clear,Night,High,High,Classification,5-15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Clear,Morning,High,High,Anomaly Detection,5-15 mins,Urban,Edge Device
+Camera,Accident,Foggy,Morning,Medium,Low,Clustering,>15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Foggy,Night,High,High,Anomaly Detection,>15 mins,Rural,Edge Device
+Camera,Road Block,Clear,Morning,Medium,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Foggy,Afternoon,Medium,Low,Clustering,>15 mins,Rural,Edge Device
+Radar,Accident,Foggy,Night,High,Low,Classification,<5 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Foggy,Afternoon,Medium,Medium,Anomaly Detection,5-15 mins,Urban,Edge Device
+Radar,Accident,Rainy,Afternoon,Medium,Low,Classification,5-15 mins,Urban,Edge Device
+Camera,Road Block,Clear,Night,High,Medium,Classification,>15 mins,Rural,Cloud Server
+Camera,Accident,Rainy,Night,High,High,Anomaly Detection,5-15 mins,Suburban,Edge Device
+Camera,Road Block,Rainy,Morning,Medium,Low,Classification,>15 mins,Suburban,On-premise Server
+LIDAR,Accident,Foggy,Night,Low,Low,Clustering,<5 mins,Urban,On-premise Server
+LIDAR,Traffic Jam,Foggy,Afternoon,High,Medium,Anomaly Detection,>15 mins,Urban,Cloud Server
+LIDAR,Accident,Rainy,Morning,Medium,Low,Clustering,>15 mins,Suburban,Cloud Server
+LIDAR,Road Block,Clear,Morning,High,High,Classification,>15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Afternoon,High,Low,Clustering,5-15 mins,Urban,On-premise Server
+Camera,Road Block,Clear,Night,High,Medium,Clustering,>15 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Morning,High,Medium,Classification,5-15 mins,Suburban,Cloud Server
+Camera,Accident,Foggy,Night,High,Low,Clustering,>15 mins,Urban,Cloud Server
+Camera,Accident,Foggy,Afternoon,Medium,High,Classification,5-15 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Foggy,Night,Low,Medium,Classification,<5 mins,Urban,On-premise Server
+LIDAR,Accident,Rainy,Night,High,Low,Anomaly Detection,5-15 mins,Urban,Cloud Server
+Camera,Traffic Jam,Clear,Morning,High,Medium,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Rainy,Afternoon,Medium,Medium,Anomaly Detection,>15 mins,Suburban,Cloud Server
+LIDAR,Traffic Jam,Rainy,Night,High,High,Classification,<5 mins,Urban,Cloud Server
+Camera,Traffic Jam,Foggy,Night,High,Low,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Camera,Traffic Jam,Clear,Night,Medium,High,Classification,5-15 mins,Urban,Cloud Server
+LIDAR,Accident,Clear,Morning,Medium,High,Clustering,<5 mins,Urban,Edge Device
+Camera,Accident,Rainy,Night,High,Low,Anomaly Detection,>15 mins,Rural,Cloud Server
+Radar,Accident,Rainy,Afternoon,Low,Low,Clustering,<5 mins,Rural,Edge Device
+Camera,Accident,Rainy,Night,Medium,Medium,Clustering,>15 mins,Suburban,Cloud Server
+Camera,Accident,Clear,Afternoon,Low,Low,Anomaly Detection,<5 mins,Urban,Edge Device
+LIDAR,Accident,Rainy,Morning,Low,Medium,Clustering,>15 mins,Urban,On-premise Server
+Radar,Accident,Clear,Night,Medium,High,Classification,<5 mins,Rural,Cloud Server
+Radar,Accident,Rainy,Afternoon,High,Low,Anomaly Detection,<5 mins,Rural,Edge Device
+Radar,Traffic Jam,Foggy,Afternoon,Low,Medium,Clustering,5-15 mins,Urban,Edge Device
+LIDAR,Road Block,Clear,Afternoon,High,High,Classification,>15 mins,Urban,On-premise Server
+Radar,Road Block,Clear,Night,High,High,Anomaly Detection,<5 mins,Suburban,Edge Device
+LIDAR,Traffic Jam,Clear,Morning,Medium,Low,Classification,<5 mins,Rural,Cloud Server
+Radar,Accident,Foggy,Morning,High,Medium,Classification,5-15 mins,Urban,On-premise Server
+Radar,Accident,Foggy,Night,Low,High,Clustering,5-15 mins,Urban,Cloud Server
+LIDAR,Road Block,Foggy,Morning,Low,High,Clustering,5-15 mins,Urban,Edge Device
+Radar,Road Block,Foggy,Night,High,Low,Classification,>15 mins,Rural,On-premise Server
+LIDAR,Road Block,Clear,Night,Medium,Low,Classification,>15 mins,Suburban,On-premise Server
+Camera,Accident,Clear,Morning,Medium,Low,Classification,<5 mins,Suburban,Edge Device
+LIDAR,Road Block,Foggy,Night,High,High,Classification,<5 mins,Rural,On-premise Server
+Camera,Accident,Foggy,Afternoon,High,High,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Clear,Morning,Low,Low,Anomaly Detection,>15 mins,Urban,On-premise Server
+Camera,Accident,Foggy,Afternoon,Medium,Low,Anomaly Detection,>15 mins,Urban,On-premise Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Medium,Low,Anomaly Detection,>15 mins,Urban,Edge Device
+Camera,Road Block,Rainy,Night,Medium,High,Clustering,>15 mins,Urban,Edge Device
+Radar,Traffic Jam,Clear,Morning,Low,Low,Classification,<5 mins,Rural,Edge Device
+Camera,Traffic Jam,Rainy,Afternoon,Medium,Medium,Anomaly Detection,>15 mins,Suburban,Edge Device
+Camera,Traffic Jam,Clear,Afternoon,High,Low,Anomaly Detection,>15 mins,Urban,Cloud Server
+Radar,Accident,Clear,Night,Medium,High,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+LIDAR,Accident,Foggy,Night,Low,Low,Anomaly Detection,>15 mins,Rural,Edge Device
+Radar,Traffic Jam,Rainy,Morning,Medium,Low,Classification,<5 mins,Urban,Edge Device
+Camera,Accident,Rainy,Night,High,Low,Anomaly Detection,<5 mins,Urban,Cloud Server
+Camera,Accident,Rainy,Night,High,Low,Clustering,5-15 mins,Suburban,Edge Device
+Radar,Accident,Clear,Night,Medium,High,Classification,<5 mins,Urban,Edge Device
+LIDAR,Accident,Foggy,Morning,High,High,Classification,<5 mins,Urban,Cloud Server
+Camera,Road Block,Clear,Morning,Low,Medium,Anomaly Detection,5-15 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Rainy,Night,High,High,Classification,<5 mins,Urban,Edge Device
+Camera,Traffic Jam,Foggy,Afternoon,Medium,Medium,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Accident,Rainy,Morning,Medium,High,Classification,<5 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Foggy,Morning,Low,Low,Classification,5-15 mins,Urban,Cloud Server
+Camera,Road Block,Foggy,Morning,Medium,Low,Classification,5-15 mins,Urban,Edge Device
+Camera,Accident,Clear,Afternoon,High,High,Clustering,>15 mins,Suburban,Cloud Server
+Radar,Accident,Foggy,Afternoon,Low,Low,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Accident,Rainy,Night,Medium,High,Clustering,<5 mins,Urban,Cloud Server
+Camera,Traffic Jam,Clear,Night,Low,Low,Classification,>15 mins,Urban,On-premise Server
+Radar,Traffic Jam,Clear,Afternoon,Low,High,Clustering,>15 mins,Suburban,Cloud Server
+Radar,Accident,Rainy,Morning,High,Low,Classification,<5 mins,Suburban,On-premise Server
+Radar,Road Block,Foggy,Morning,High,Low,Classification,>15 mins,Suburban,On-premise Server
+Camera,Traffic Jam,Foggy,Night,Medium,High,Classification,5-15 mins,Rural,Edge Device
+Camera,Traffic Jam,Rainy,Night,High,Low,Clustering,>15 mins,Urban,Edge Device
+Radar,Road Block,Rainy,Morning,Medium,High,Classification,5-15 mins,Rural,On-premise Server
+Camera,Accident,Foggy,Afternoon,High,High,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+LIDAR,Road Block,Clear,Afternoon,High,Medium,Clustering,>15 mins,Suburban,Edge Device
+Camera,Accident,Foggy,Morning,Low,High,Anomaly Detection,5-15 mins,Rural,On-premise Server
+Camera,Road Block,Clear,Morning,High,Medium,Classification,>15 mins,Rural,On-premise Server
+Camera,Accident,Foggy,Afternoon,High,Medium,Clustering,>15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Morning,Low,Medium,Anomaly Detection,5-15 mins,Suburban,Cloud Server
+Camera,Traffic Jam,Rainy,Morning,Low,Medium,Anomaly Detection,5-15 mins,Urban,Edge Device
+LIDAR,Traffic Jam,Foggy,Night,Medium,Low,Classification,>15 mins,Rural,Cloud Server
+Radar,Traffic Jam,Foggy,Morning,Low,High,Classification,5-15 mins,Rural,Cloud Server
+Radar,Accident,Foggy,Afternoon,Medium,High,Classification,<5 mins,Suburban,Edge Device
+Camera,Road Block,Rainy,Afternoon,Low,Medium,Anomaly Detection,<5 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Foggy,Morning,Low,Low,Anomaly Detection,<5 mins,Rural,On-premise Server
+LIDAR,Accident,Clear,Night,Low,Medium,Clustering,<5 mins,Urban,On-premise Server
+Camera,Road Block,Clear,Morning,Medium,High,Anomaly Detection,<5 mins,Suburban,Cloud Server
+LIDAR,Accident,Rainy,Night,Medium,High,Anomaly Detection,>15 mins,Suburban,Edge Device
+LIDAR,Traffic Jam,Rainy,Night,Medium,High,Clustering,5-15 mins,Suburban,On-premise Server
+LIDAR,Road Block,Clear,Night,High,Low,Clustering,<5 mins,Suburban,On-premise Server
+Radar,Accident,Rainy,Morning,High,Low,Classification,5-15 mins,Suburban,Cloud Server
+Camera,Road Block,Clear,Afternoon,Low,Medium,Clustering,5-15 mins,Rural,Edge Device
+Radar,Road Block,Clear,Afternoon,High,Medium,Anomaly Detection,<5 mins,Urban,Cloud Server
+Radar,Accident,Clear,Morning,Low,High,Clustering,<5 mins,Suburban,Cloud Server
+Camera,Accident,Foggy,Afternoon,High,Medium,Clustering,5-15 mins,Urban,Edge Device
+Radar,Road Block,Rainy,Afternoon,Medium,Low,Classification,>15 mins,Rural,Edge Device
+Camera,Traffic Jam,Rainy,Afternoon,Low,Low,Classification,5-15 mins,Urban,On-premise Server
+Camera,Road Block,Rainy,Night,Medium,Medium,Clustering,>15 mins,Rural,On-premise Server
+Radar,Road Block,Clear,Morning,Medium,High,Anomaly Detection,5-15 mins,Urban,Edge Device
+Radar,Traffic Jam,Foggy,Morning,High,Low,Clustering,5-15 mins,Urban,Cloud Server
+Camera,Road Block,Rainy,Morning,High,High,Classification,>15 mins,Rural,Cloud Server
+LIDAR,Accident,Foggy,Afternoon,Low,Low,Clustering,5-15 mins,Urban,On-premise Server
+Camera,Road Block,Foggy,Morning,Low,Medium,Classification,5-15 mins,Suburban,Cloud Server
+Radar,Road Block,Clear,Afternoon,Low,Medium,Classification,<5 mins,Urban,Cloud Server
+Camera,Road Block,Clear,Afternoon,Low,Medium,Clustering,>15 mins,Rural,On-premise Server
+Camera,Road Block,Rainy,Morning,Low,High,Anomaly Detection,<5 mins,Suburban,Cloud Server
+LIDAR,Road Block,Clear,Night,Medium,Low,Classification,5-15 mins,Urban,Edge Device
+Radar,Accident,Foggy,Morning,Medium,Medium,Classification,>15 mins,Urban,On-premise Server
+Camera,Accident,Clear,Afternoon,Medium,Medium,Clustering,>15 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Foggy,Afternoon,Medium,Low,Anomaly Detection,<5 mins,Rural,Cloud Server
+LIDAR,Traffic Jam,Rainy,Night,High,Low,Clustering,5-15 mins,Rural,On-premise Server
+LIDAR,Traffic Jam,Rainy,Afternoon,Low,Low,Anomaly Detection,>15 mins,Urban,On-premise Server
+LIDAR,Road Block,Rainy,Afternoon,Low,Medium,Anomaly Detection,5-15 mins,Urban,Edge Device
+Camera,Accident,Foggy,Morning,Medium,High,Clustering,<5 mins,Suburban,Edge Device
+Radar,Accident,Rainy,Night,High,Medium,Classification,<5 mins,Suburban,Cloud Server
+LIDAR,Road Block,Foggy,Afternoon,Medium,Low,Clustering,>15 mins,Urban,Edge Device
+LIDAR,Accident,Clear,Morning,Medium,Medium,Clustering,>15 mins,Suburban,Edge Device
+Radar,Traffic Jam,Foggy,Afternoon,High,High,Classification,5-15 mins,Suburban,Edge Device
+LIDAR,Accident,Clear,Morning,High,High,Anomaly Detection,>15 mins,Suburban,Edge Device
+Camera,Road Block,Foggy,Night,Medium,High,Clustering,>15 mins,Rural,On-premise Server
+Camera,Accident,Foggy,Afternoon,Medium,Low,Clustering,>15 mins,Rural,Edge Device
+Camera,Traffic Jam,Rainy,Night,High,High,Anomaly Detection,>15 mins,Suburban,Edge Device
+LIDAR,Accident,Clear,Night,High,High,Clustering,<5 mins,Rural,Cloud Server
+Radar,Traffic Jam,Foggy,Night,Medium,Medium,Classification,5-15 mins,Urban,On-premise Server
+Radar,Road Block,Rainy,Night,High,Medium,Clustering,5-15 mins,Urban,Cloud Server
+Radar,Traffic Jam,Foggy,Morning,Medium,Low,Clustering,<5 mins,Urban,Cloud Server
+LIDAR,Traffic Jam,Clear,Morning,Medium,Medium,Clustering,<5 mins,Urban,Edge Device
+Camera,Traffic Jam,Foggy,Morning,Low,Medium,Classification,>15 mins,Rural,Cloud Server
+Camera,Road Block,Clear,Night,Medium,Low,Anomaly Detection,>15 mins,Suburban,Edge Device
+Radar,Road Block,Rainy,Morning,High,High,Classification,>15 mins,Urban,Cloud Server
+LIDAR,Accident,Foggy,Morning,Low,High,Clustering,5-15 mins,Rural,Edge Device
+Radar,Traffic Jam,Foggy,Morning,Low,High,Anomaly Detection,5-15 mins,Suburban,On-premise Server
+LIDAR,Traffic Jam,Foggy,Morning,High,High,Classification,5-15 mins,Urban,Edge Device
